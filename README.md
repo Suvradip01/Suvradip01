@@ -1,7 +1,10 @@
 # 💫 Hi 👋, I'm Suvradip Ghosh
 🚀 **Web Developer** | 📊 **Data Science & Analysis Enthusiast** | 📱 **Flutter Learner** | 🛠️ **Building Future-Ready Applications**
+
+
 📬 **Email me:** [ghoshsuvradip215@gmail.com](mailto:ghoshsuvradip215@gmail.com) ✉️💻✨
 
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="left" alt="">
 
 - 🔭 **Currently working on:**  
   🧱 Exploring full-stack development, 🧠 data science, and building 🧪 self-taught projects
@@ -34,16 +37,7 @@
 
 ---
 
-### 🌐 Let's Connect
-
-🔗 [GitHub](https://github.com/Suvradip01) 👨‍💻  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/suvradip01) 💼  
-
-🔗 [LeetCode](https://leetcode.com/u/SuvradipGhosh/) 🧠
-
-
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JUbXGYHG26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Suvra.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvradip01) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suvradip15) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Suvradip) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/AcanthaceaeBig7817 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30808619) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fusionw_w) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SuvradipGhosh7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCi5LRjSxWDtSAtIQeCmG5Q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoshsuvradip215@gmail.com) 
 
 
