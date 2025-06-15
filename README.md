@@ -1,45 +1,96 @@
-# 💫 Hi 👋, I'm Suvradip Ghosh
-🚀 **Web Developer** | 📊 **Data Science & Analysis Enthusiast** | 📱 **Flutter Learner** | 🛠️ **Building Future-Ready Applications**
+<div align="center">
+<!-- Original Animated Header GIF -->
+<img src="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="Header Animation" width="100%" height="400px" style="border-radius: 15px;">
+
+<!-- Animated Header with Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Suvradip%20Ghosh&fontSize=70&fontAlignY=35&desc=WebDev%20%7C%20DataScience%20%7C%20Analysis%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center&animation=twinkling"/>
 
 
-📬 **Email me:** [ghoshsuvradip215@gmail.com](mailto:ghoshsuvradip215@gmail.com) ✉️💻✨
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi,+I'm+Suvradip+Ghosh;Web+Developer+%7C+Data+Science+Learner+%7C+Flutter+Devloper" 
+     alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="left" alt="">
+<div align="center">
+  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" alt="Abstract triangular shape animation">
+</div>
 
-- 🔭 **Currently working on:**  
-  🧱 Exploring full-stack development, 🧠 data science, and building 🧪 self-taught projects
+<div align="left">
+
+```typescript
+class Developer:
+    def __init__(self):
+        # --- Personal Information ---
+
+        self.name: str = "Suvradip Ghosh"
+        self.location: str = "India 🇮🇳"
+        self.title: str = "MCA Fresher | WebDev | Software & Data Science Enthusiast"
+
+        # --- Skill Set ---
+
+        self.skills: dict = {
+            "languages"               : ["Python", "C", "Java", "C#", "Kotlin", "JavaScript"],
+            "frontend"                : ["HTML5", "CSS3", "React"],
+            "backend"                 : [".NET", "Node.js", "Express.js", "Flask"],
+            "databases"               : ["MySQL", "Microsoft SQL Server", "MongoDB"],
+            "data_science_libraries"  : ["Pandas", "Matplotlib", "Numpy", "Plotly", "PyTorch"],
+            "mobile_development"      : ["Dart", "Flutter"],
+            "tools_platforms"         : ["Figma", "Next.js", "WordPress", "Github", "Canva", "Cisco", "Docker"],
+            "dev_utilities"           : ["Apache", "Powershell", "Windows Terminal"],
+        }
+
+        # --- "About Me" - Insights & Goals ---
+
+        self.currently_working_on: str = (
+            "🧱 Exploring full-stack development, 🧠 data science, "
+            "and building 🧪 self-taught projects"
+        )
+        self.currently_learning: str = (
+            "🖥️ Web development (frontend + backend), 📊 data analysis, "
+            "📲 Kotlin & Flutter for cross-platform mobile apps"
+        )
+        self.looking_to_collaborate_on: str = (
+            "💡 Cool dev projects, 👨‍💻 beginner-friendly open-source, "
+            "or anything that challenges logic and creativity 🧠⚙️"
+        )
+        self.looking_for_help_with: str = (
+            "🤖 Real-world ML projects and 🎨 hands-on UI/UX design experience"
+        )
+        self.ask_me_about: str = (
+            "💻 Python, 💡 C, ☕ Java, 🗃️ MySQL, 🌐 basic networking, 🧰 .NET, "
+            "🐞 debugging, and 🔧 problem-solving from scratch"
+        )
+
+        # --- Fun Facts ---
+
+        self.gaming_name: str = "FuS10N ⚔️🔥"
+        self.fun_fact_1: str = "I write clean code, but my playlists are a hot mess. 🎧💥"
+        self.fun_fact_2: str = "Ctrl + Z is not just a shortcut — it’s a lifestyle. ⌨️🔁"
+
+        # --- Contact Information ---
+        self.contact_email: str = "ghoshsuvradip215@gmail.com"
+        self.github_url: str = "https://github.com/Suvradip01"
+        self.linkedin_url: str = "https://www.linkedin.com/in/suvradip01"
 
 
-- 🌱 **Currently learning:**  
-  🖥️ Web development (frontend + backend), 📊 data analysis, 📲 Kotlin & Flutter for cross-platform mobile apps
+    def get_contact(self) -> str:
+        
+        return self.contact_email
+
+    def get_github(self) -> str:
+        
+        return self.github_url
 
 
-- 🤝 **Looking to collaborate on:**  
-  💡 Cool dev projects, 👨‍💻 beginner-friendly open-source, or anything that challenges logic and creativity 🧠⚙️
+suvradip = Developer()
+```
 
+</div>
 
-- 🧠 **Looking for help with:**  
-  🤖 Real-world ML projects and 🎨 hands-on UI/UX design experience
-
-
-- 💬 **Ask me about:**  
-  💻 Python, 💡 C, ☕ Java, 🗃️ MySQL, 🌐 basic networking, 🧰 .NET, 🐞 debugging, and 🔧 problem-solving from scratch
-
-
-- 🎮 **Gaming name:** FuS10N ⚔️🔥
-
-
-- 😂 **Fun fact:**  
-
-  I write clean code, but my playlists are a hot mess. 🎧💥  
-
-  Ctrl + Z is not just a shortcut — it’s a lifestyle. ⌨️🔁
-
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📬 **Email me:** [ghoshsuvradip215@gmail.com] ✉️💻✨
 
 ## 🌐 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JUbXGYHG26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Suvra.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvradip01) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suvradip15) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Suvradip) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/AcanthaceaeBig7817 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30808619) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fusionw_w) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SuvradipGhosh7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCi5LRjSxWDtSAtIQeCmG5Q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghoshsuvradip215@gmail.com) 
-
 
 <!-- Snake Game Repo View -->
 
@@ -66,7 +117,23 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Suvradip01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![](https://visitcount.itsvg.in/api?id=Suvradip01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=center&animation=twinkling"/>
+
+
+### 🎯 **"Code with logic, build with heart — that's where innovation begins."**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Always+open+to+collaborate;💬+Let's+connect+and+innovate+together!" />
+
+**Made with ❤️ by [Suvradip Ghosh]**
+
+</div>
