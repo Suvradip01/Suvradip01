@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Original Animated Header GIF -->
-<img src="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="Header Animation" width="100%" height="400px" style="border-radius: 15px;">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Animation" width="100%" height="400px" style="border-radius: 15px;">
 
 <!-- Animated Header with Name -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Suvradip%20Ghosh&fontSize=70&fontAlignY=35&desc=WebDev%20%7C%20DataScience%20%7C%20Analysis%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center&animation=twinkling"/>
@@ -136,8 +136,8 @@ suvradip = Developer()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/></p>
 
----
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Suvradip01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -157,6 +157,8 @@ suvradip = Developer()
 ### 🎯 **"Code with logic, build with heart — that's where innovation begins."**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Always+open+to+collaborate;💬+Let's+connect+and+innovate+together!" />
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
 
 **Made with ❤️ by [Suvradip Ghosh]**
 
