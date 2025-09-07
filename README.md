@@ -120,10 +120,18 @@ suvradip = Developer()
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suvradip01&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<!-- Main stats card -->
+![](https://github-readme-stats.vercel.app/api?username=Suvradip01&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!-- Streak stats card -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Suvradip01&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvradip01&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Top languages card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvradip01&theme=neon&hide_border=false&layout=compact&cache_seconds=3600)
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
