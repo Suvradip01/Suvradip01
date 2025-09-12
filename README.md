@@ -164,7 +164,7 @@ suvradip = Developer()
 ![](https://nirzak-streak-stats.vercel.app/?user=Suvradip01&theme=neon&hide_border=false)<br/>
 
 <!-- Top languages card -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvradip01&theme=neon&hide_border=false&layout=compact&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvradip01&theme=neon&hide_border=false&layout=compact&cache_seconds=1800)
 
 
 <!-- Animated Divider -->
