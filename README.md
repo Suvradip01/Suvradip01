@@ -13,6 +13,13 @@
   <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="130px" alt="Abstract triangular shape animation">
 </div>
 
+<div align="center">
+  <a href="https://suvra-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
