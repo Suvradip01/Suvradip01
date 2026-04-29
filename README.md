@@ -33,68 +33,52 @@
 <div align="left">
 
 ```typescript
-class Developer:
-    def __init__(self):
-        # --- Personal Information ---
+public class Developer {
+    // --- Personal Information ---
+    String name = "Suvradip Ghosh";
+    String location = "India 🇮🇳";
+    String title = "Software Developer | Web Dev | AI & Data Science Enthusiast";
 
-        self.name: str = "Suvradip Ghosh"
-        self.location: str = "India 🇮🇳"
-        self.title: str = "Software Developer | Web Dev | AI & Data Science Enthusiast"
+    // --- Skill Set ---
+    String[] languages = {"Python", "Java", "C", "JavaScript"};
+    String[] frontend = {"HTML", "CSS", "React", "Next.js", "Tailwind CSS", "ShadcnUI", "BklitUI"};
+    String[] backend = {"Node.js", "Express.js"};
+    String[] databases = {"SQL", "MongoDB Atlas", "Convex"};
+    String[] ai_ml = {"PyTorch", "TensorFlow", "SHAP", "OpenCV", "Scikit-Learn"};
+    String[] tools_services = {"Git", "GitHub", "Clerk", "ImageKit", "GSAP", "Linux"};
 
-        # --- Skill Set ---
+    // --- Projects ---
+    String[] projects = {
+        "Explainable AI-based ATS with Project Complexity Analyzer",
+        "Skin Disease Detection System Using CNN",
+        "CodeNest - AI Powered Cloud IDE and Review Platform"
+    };
 
-        self.skills: dict = {
-            "languages"             : ["Python", "Java", "C", "JavaScript"],
-            "frontend"              : ["HTML", "CSS", "React", "Next.js", "Tailwind CSS", "ShadcnUI", "BklitUI"],
-            "backend"               : ["Node.js", "Express.js"],
-            "databases"             : ["SQL", "MongoDB Atlas"],
-            "ai_ml"                 : ["PyTorch", "TensorFlow", "SHAP", "OpenCV", "Scikit-Learn"],
-            "tools_services"        : ["Git", "GitHub", "Clerk", "Convex", "ImageKit", "GSAP", "Linux"],
-        }
+    // --- "About Me" - Insights & Goals ---
+    String aboutMe = "I work across full stack development and machine learning, building systems that are clear in design. I focus on existing problems that involve real constraints and edge cases, working through them step by step to build solutions that remain reliable when used.";
 
-        # --- "About Me" - Insights & Goals ---
+    // --- Fun Facts ---
+    String gamingName = "FuS10N ⚔️🔥";
+    String funFact1 = "I write clean code, but my playlists are a hot mess. 🎧💥";
+    String funFact2 = "Ctrl + Z is not just a shortcut — it’s a lifestyle. ⌨️🔁";
 
-        self.currently_working_on: str = (
-            "🧱 Building full-stack web applications, creating AI-based projects, "
-            "and improving model accuracy using TensorFlow + OpenCV."
-        )
-        self.currently_learning: str = (
-            "🖥️ Advanced React + Next.js, 📊 data modeling & ML techniques, "
-            "🔬 TensorFlow pipelines, and backend optimization with Node.js."
-        )
-        self.looking_to_collaborate_on: str = (
-            "💡 AI/ML projects, 👨‍💻 full-stack web apps, or research-based data science work."
-        )
-        self.looking_for_help_with: str = (
-            "🤖 Real-world ML deployments, model optimization, and UI/UX design workflows."
-        )
-        self.ask_me_about: str = (
-            "💻 Python, ☕ Java, 🗃️ SQL & MongoDB, 🌐 web development, "
-            "🧠 machine learning basics, and 🔧 debugging from scratch."
-        )
+    // --- Contact Information ---
+    String contactEmail = "ghoshsuvradip215@gmail.com";
+    String githubUrl = "https://github.com/Suvradip01";
+    String linkedinUrl = "https://www.linkedin.com/in/suvradip01";
 
-        # --- Fun Facts ---
+    public String getContact() {
+        return this.contactEmail;
+    }
 
-        self.gaming_name: str = "FuS10N ⚔️🔥"
-        self.fun_fact_1: str = "I write clean code, but my playlists are a hot mess. 🎧💥"
-        self.fun_fact_2: str = "Ctrl + Z is not just a shortcut — it’s a lifestyle. ⌨️🔁"
+    public String getGithub() {
+        return this.githubUrl;
+    }
 
-        # --- Contact Information ---
-        self.contact_email: str = "ghoshsuvradip215@gmail.com"
-        self.github_url: str = "https://github.com/Suvradip01"
-        self.linkedin_url: str = "https://www.linkedin.com/in/suvradip01"
-
-
-    def get_contact(self) -> str:
-        
-        return self.contact_email
-
-    def get_github(self) -> str:
-        
-        return self.github_url
-
-
-suvradip = Developer()
+    public static void main(String[] args) {
+        Developer suvradip = new Developer();
+    }
+}
 ```
 
 </div>
