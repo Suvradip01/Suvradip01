@@ -33,52 +33,60 @@
 <div align="left">
 
 ```typescript
-public class Developer {
-    // --- Personal Information ---
-    String name = "Suvradip Ghosh";
-    String location = "India 🇮🇳";
-    String title = "Software Developer | Web Dev | AI & Data Science Enthusiast";
+class Developer:
+    name = "Suvradip Ghosh"
+    location = "West Bengal, India 🇮🇳"
+    title = "Software Developer"
 
-    // --- Skill Set ---
-    String[] languages = {"Python", "Java", "C", "JavaScript"};
-    String[] frontend = {"HTML", "CSS", "React", "Next.js", "Tailwind CSS", "ShadcnUI", "BklitUI"};
-    String[] backend = {"Node.js", "Express.js"};
-    String[] databases = {"SQL", "MongoDB Atlas", "Convex"};
-    String[] ai_ml = {"PyTorch", "TensorFlow", "SHAP", "OpenCV", "Scikit-Learn"};
-    String[] tools_services = {"Git", "GitHub", "Clerk", "ImageKit", "GSAP", "Linux"};
+    summary = (
+        "Software Developer working across full-stack development and machine "
+        "learning, with experience in building production software and applying "
+        "modern AI techniques to real-world tasks."
+    )
 
-    // --- Projects ---
-    String[] projects = {
-        "Explainable AI-based ATS with Project Complexity Analyzer",
-        "Skin Disease Detection System Using CNN",
-        "CodeNest - AI Powered Cloud IDE and Review Platform"
-    };
-
-    // --- "About Me" - Insights & Goals ---
-    String aboutMe = "I work across full stack development and machine learning, building systems that are clear in design. I focus on existing problems that involve real constraints and edge cases, working through them step by step to build solutions that remain reliable when used.";
-
-    // --- Fun Facts ---
-    String gamingName = "FuS10N ⚔️🔥";
-    String funFact1 = "I write clean code, but my playlists are a hot mess. 🎧💥";
-    String funFact2 = "Ctrl + Z is not just a shortcut — it’s a lifestyle. ⌨️🔁";
-
-    // --- Contact Information ---
-    String contactEmail = "ghoshsuvradip215@gmail.com";
-    String githubUrl = "https://github.com/Suvradip01";
-    String linkedinUrl = "https://www.linkedin.com/in/suvradip01";
-
-    public String getContact() {
-        return this.contactEmail;
+    skills = {
+        "Languages": ["Python", "Java", "JavaScript", "C"],
+        "Frontend": ["React.js", "HTML", "CSS", "Tailwind CSS"],
+        "Backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+        "Databases": ["MongoDB Atlas", "SQL"],
+        "AI/ML": ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV", "SHAP"],
+        "Tools": ["Git", "Docker", "Clerk", "Convex", "ImageKit"]
     }
 
-    public String getGithub() {
-        return this.githubUrl;
+    projects = {
+        "Insight-ATS":
+            "Built a full-stack AI candidate-evaluation ATS platform using "
+            "FastAPI, BERT, RoBERTa, DistilBERT and SHAP for entity extraction, "
+            "Resume–JD matching, project complexity scoring, and explainability.",
+
+        "CodeNest":
+            "Built a microservice-based cloud IDE supporting JavaScript, Python, "
+            "Java and C execution in isolated Docker containers with AI-assisted "
+            "code reviews, debugging, flowchart generation and code analysis.",
+
+        "Skin Disease Detection System":
+            "Created a skin lesion classification pipeline using TensorFlow, "
+            "EfficientNetB3, OpenCV and Scikit-Learn on the HAM10000 dataset "
+            "for benign, melanoma and non-melanoma classification."
     }
 
-    public static void main(String[] args) {
-        Developer suvradip = new Developer();
+    education = {
+        "MCA": "Sikkim Manipal Institute of Technology (CGPA: 8.16)",
+        "BCA": "Techno India University (CGPA: 8.39)",
+        "Class XII": "Maynaguri High School (88.6%)"
     }
-}
+
+    certifications = [
+        "Android Developer Virtual Internship (Google & AICTE EduSkills)",
+        "IBM Professional Certificate: Full Stack Software Developer",
+        "IBM Professional Certificate: Data Science and AI"
+    ]
+
+    contact = {
+        "Email": "suvrawork03@gmail.com",
+        "GitHub": "github.com/Suvradip01",
+        "LinkedIn": "linkedin.com/in/suvradip01"
+    }
 ```
 
 </div>
