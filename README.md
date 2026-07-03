@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://suvra-portfolio.vercel.app/" target="_blank">
+  <a href="https://suvra.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -43,15 +43,14 @@ class Developer:
         "learning, with experience in building production software and applying "
         "modern AI techniques to real-world tasks."
     )
-
-    skills = {
-        "Languages": ["Python", "Java", "JavaScript", "C"],
-        "Frontend": ["React.js", "HTML", "CSS", "Tailwind CSS"],
-        "Backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-        "Databases": ["MongoDB Atlas", "SQL"],
-        "AI/ML": ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV", "SHAP"],
-        "Tools": ["Git", "Docker", "Clerk", "Convex", "ImageKit"]
-    }
+     skills = {
+         "Languages": ["Python", "Java", "JavaScript", "C"],
+         "Frontend": ["React.js", "HTML", "CSS", "Tailwind CSS", "Redux", "Zustand"],
+         "Backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+         "Databases": ["MongoDB Atlas", "SQL", "SQLite", "Redis"],
+         "AI/ML": ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV", "SHAP"],
+         "Tools": ["Git", "Docker", "Clerk", "Convex", "ImageKit"]
+     }
 
     projects = {
         "Insight-ATS":
@@ -71,7 +70,7 @@ class Developer:
     }
 
     education = {
-        "MCA": "Sikkim Manipal Institute of Technology (CGPA: 8.16)",
+        "MCA": "Sikkim Manipal Institute of Technology (CGPA: 8.25)",
         "BCA": "Techno India University (CGPA: 8.39)",
         "Class XII": "Maynaguri High School (88.6%)"
     }
@@ -111,26 +110,38 @@ class Developer:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![ShadcnUI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![BklitUI](https://img.shields.io/badge/BklitUI-blue?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-%23000000.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-7B68EE?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Clerk](https://img.shields.io/badge/Clerk-%235A67D8.svg?style=for-the-badge)
-
+![ImageKit](https://img.shields.io/badge/ImageKit-06BEF8?style=for-the-badge)
 # 🎮 Gaming Platforms
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
@@ -142,21 +153,13 @@ class Developer:
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suvradip01&show_icons=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=39FF14&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<!-- Main stats card -->
-![](https://github-readme-stats.vercel.app/api?username=Suvradip01&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<!-- Streak stats card -->
-![](https://nirzak-streak-stats.vercel.app/?user=Suvradip01&theme=neon&hide_border=false)<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suvradip01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=Suvradip01&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=39FF14&sideNums=39FF14&dates=FFFFFF&stroke=39FF14&border=39FF14" />
+</p>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
