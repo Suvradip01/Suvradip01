@@ -181,8 +181,6 @@ class Developer:
     }
 ```
 
-```
-
 </div>
 
 <!-- Animated Divider -->
