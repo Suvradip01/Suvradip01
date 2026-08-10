@@ -34,6 +34,7 @@
 
 ```typescript
 ```python
+```python
 class Developer:
     name = "Suvradip Ghosh"
     location = "West Bengal, India 🇮🇳"
@@ -46,118 +47,46 @@ class Developer:
     )
 
     skills = {
-        "Languages": [
-            "Python",
-            "Java",
-            "JavaScript",
-            "C"
-        ],
-
-        "Frontend": [
-            "React.js",
-            "Next.js",
-            "HTML",
-            "CSS",
-            "Tailwind CSS",
-            "Redux",
-            "Zustand"
-        ],
-
-        "Backend": [
-            "Node.js",
-            "Express.js",
-            "FastAPI",
-            "REST APIs"
-        ],
-
-        "Databases": [
-            "MongoDB",
-            "PostgreSQL",
-            "SQLite",
-            "Redis"
-        ],
-
-        "AI/ML": [
-            "PyTorch",
-            "TensorFlow",
-            "Scikit-Learn",
-            "OpenCV",
-            "SHAP"
-        ],
-
-        "Tools & Cloud": [
-            "Git",
-            "Docker",
-            "GitHub Actions"
-        ]
+        "Languages": ["Python", "Java", "JavaScript", "C"],
+        "Frontend": ["React.js", "Next.js", "HTML", "CSS", "Tailwind CSS", "Redux", "Zustand"],
+        "Backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+        "Databases": ["MongoDB", "PostgreSQL", "SQLite", "Redis"],
+        "AI/ML": ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV", "SHAP"],
+        "Tools & Cloud": ["Git", "Docker", "GitHub Actions"]
     }
 
     projects = {
         "InsightATS": [
-            "Built an AI-powered hiring support platform using React, FastAPI, "
-            "PyTorch and transformer-based models for resume NER, resume–JD "
-            "matching, candidate classification and explainability.",
-
-            "Achieved 0.75 F1 for NER, 0.78 Macro F1 for matching and 0.93 Macro F1 "
-            "for classification while reducing inference latency by 51.1%."
+            "AI hiring platform using React, FastAPI, PyTorch and transformers for resume NER, JD matching, classification and explainability.",
+            "Achieved 0.75 F1 NER, 0.78 Macro F1 matching, 0.93 Macro F1 classification and 51.1% lower inference latency."
         ],
-
         "CodeNest": [
-            "Built a microservice-based AI cloud IDE using React, Express, "
-            "MongoDB Atlas, Docker and Redis with isolated code execution for "
-            "JavaScript, Python and Java.",
-
-            "Implemented a 25-job execution queue, Redis rate limiting, "
-            "AI-assisted code reviews, debugging, flowchart generation and "
-            "automated code analysis."
+            "Microservice-based AI cloud IDE using React, Express, MongoDB Atlas, Docker and Redis with isolated code execution.",
+            "Implemented 25-job queue, Redis rate limiting, AI code reviews, debugging, flowcharts and code analysis."
         ],
-
         "GrowEasy": [
-            "Built an AI-powered CSV import platform using Next.js, Express, "
-            "MongoDB Atlas and Redis for processing and managing structured data.",
-
-            "Implemented a production deployment with Vercel and Render, "
-            "integrating scalable frontend, backend and database services."
+            "AI-powered CSV import platform using Next.js, Express, MongoDB Atlas and Redis for structured data processing.",
+            "Deployed frontend on Vercel and backend on Render with scalable database services."
         ],
-
         "Skin Disease Detection System": [
-            "Developed a skin lesion classification pipeline using TensorFlow, "
-            "EfficientNetB3, OpenCV and Scikit-Learn on the HAM10000 dataset.",
-
-            "Built a classification system for benign, melanoma and non-melanoma "
-            "skin lesions with machine learning-based image analysis."
+            "Skin lesion classification pipeline using TensorFlow, EfficientNetB3, OpenCV and Scikit-Learn on HAM10000.",
+            "Classified benign, melanoma and non-melanoma lesions using machine learning-based image analysis."
         ],
-
         "QMS": [
-            "Developed an AI-based Examination Paper Quality Management System "
-            "for automated evaluation and quality assessment of question papers.",
-
-            "Implemented machine learning-based analysis to identify quality "
-            "issues and provide structured assessment results."
+            "AI-based Examination Paper Quality Management System for automated question-paper evaluation.",
+            "Used machine learning analysis to identify quality issues and generate structured assessment results."
         ],
-
         "AI Complaint Management System": [
-            "Built an AI-assisted complaint management platform for automated "
-            "complaint processing, categorization and analysis.",
-
-            "Designed the system to streamline complaint handling and provide "
-            "structured insights from user-submitted complaints."
+            "AI-assisted platform for automated complaint processing, categorization and analysis.",
+            "Streamlined complaint handling and generated structured insights from user submissions."
         ],
-
         "AI Photo Editing Platform": [
-            "Developed an AI-powered photo editing platform with modern web "
-            "technologies and automated image-processing capabilities.",
-
-            "Implemented cloud-based image handling and AI-assisted editing "
-            "features for an interactive user experience."
+            "AI-powered photo editing platform with modern web technologies and automated image processing.",
+            "Implemented cloud-based image handling and AI-assisted editing features."
         ],
-
         "AI Coding Agent": [
-            "Built an AI coding agent in Python capable of analyzing and modifying "
-            "an existing Node.js codebase based on natural-language instructions.",
-
-            "Implemented an agent workflow for understanding repository structure, "
-            "making code changes and improving application functionality."
+            "Python-based AI coding agent capable of analyzing and modifying an existing Node.js codebase.",
+            "Implemented repository understanding, code modification and automated functionality improvements."
         ]
     }
 
@@ -167,8 +96,8 @@ class Developer:
     }
 
     certifications = [
-        "IBM Professional Certificate: Full Stack Software Developer",
-        "IBM Professional Certificate: Data Science and AI",
+        "IBM Full Stack Software Developer",
+        "IBM Data Science and AI",
         "Google AI Essentials",
         "Android Developer Virtual Internship (Google & AICTE EduSkills)"
     ]
