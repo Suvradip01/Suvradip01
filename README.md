@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Suvradip%20Ghosh&fontSize=70&fontAlignY=35&desc=SoftwareDevloper%20%7C%20DataScience%20%7C%20FullStack%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center&animation=twinkling"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi,+I'm+Suvradip+Ghosh;Web+Dev+%7C+Data+Science+Learner+%7C+FullStack+Dev" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi,+I'm+Suvradip+Ghosh;FullStack-Dev+%7C+Ai/ML+%7C+Software+Dev" 
      alt="Typing SVG" />
      
 <div align="center">
