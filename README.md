@@ -33,6 +33,7 @@
 <div align="left">
 
 ```typescript
+```python
 class Developer:
     name = "Suvradip Ghosh"
     location = "West Bengal, India 🇮🇳"
@@ -40,52 +41,146 @@ class Developer:
 
     summary = (
         "Software Developer working across full-stack development and machine "
-        "learning, with experience in building production software and applying "
-        "modern AI techniques to real-world tasks."
+        "learning, with experience building scalable web applications, AI-powered "
+        "systems, REST APIs, and production-ready software."
     )
-     skills = {
-         "Languages": ["Python", "Java", "JavaScript", "C"],
-         "Frontend": ["React.js", "HTML", "CSS", "Tailwind CSS", "Redux", "Zustand"],
-         "Backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-         "Databases": ["MongoDB Atlas", "SQL", "SQLite", "Redis"],
-         "AI/ML": ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV", "SHAP"],
-         "Tools": ["Git", "Docker", "Clerk", "Convex", "ImageKit"]
-     }
+
+    skills = {
+        "Languages": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C"
+        ],
+
+        "Frontend": [
+            "React.js",
+            "Next.js",
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "Redux",
+            "Zustand"
+        ],
+
+        "Backend": [
+            "Node.js",
+            "Express.js",
+            "FastAPI",
+            "REST APIs"
+        ],
+
+        "Databases": [
+            "MongoDB",
+            "PostgreSQL",
+            "SQLite",
+            "Redis"
+        ],
+
+        "AI/ML": [
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-Learn",
+            "OpenCV",
+            "SHAP"
+        ],
+
+        "Tools & Cloud": [
+            "Git",
+            "Docker",
+            "GitHub Actions"
+        ]
+    }
 
     projects = {
-        "Insight-ATS":
-            "Built a full-stack AI candidate-evaluation ATS platform using "
-            "FastAPI, BERT, RoBERTa, DistilBERT and SHAP for entity extraction, "
-            "Resume–JD matching, project complexity scoring, and explainability.",
+        "InsightATS": [
+            "Built an AI-powered hiring support platform using React, FastAPI, "
+            "PyTorch and transformer-based models for resume NER, resume–JD "
+            "matching, candidate classification and explainability.",
 
-        "CodeNest":
-            "Built a microservice-based cloud IDE supporting JavaScript, Python, "
-            "Java and C execution in isolated Docker containers with AI-assisted "
-            "code reviews, debugging, flowchart generation and code analysis.",
+            "Achieved 0.75 F1 for NER, 0.78 Macro F1 for matching and 0.93 Macro F1 "
+            "for classification while reducing inference latency by 51.1%."
+        ],
 
-        "Skin Disease Detection System":
-            "Created a skin lesion classification pipeline using TensorFlow, "
-            "EfficientNetB3, OpenCV and Scikit-Learn on the HAM10000 dataset "
-            "for benign, melanoma and non-melanoma classification."
+        "CodeNest": [
+            "Built a microservice-based AI cloud IDE using React, Express, "
+            "MongoDB Atlas, Docker and Redis with isolated code execution for "
+            "JavaScript, Python and Java.",
+
+            "Implemented a 25-job execution queue, Redis rate limiting, "
+            "AI-assisted code reviews, debugging, flowchart generation and "
+            "automated code analysis."
+        ],
+
+        "GrowEasy": [
+            "Built an AI-powered CSV import platform using Next.js, Express, "
+            "MongoDB Atlas and Redis for processing and managing structured data.",
+
+            "Implemented a production deployment with Vercel and Render, "
+            "integrating scalable frontend, backend and database services."
+        ],
+
+        "Skin Disease Detection System": [
+            "Developed a skin lesion classification pipeline using TensorFlow, "
+            "EfficientNetB3, OpenCV and Scikit-Learn on the HAM10000 dataset.",
+
+            "Built a classification system for benign, melanoma and non-melanoma "
+            "skin lesions with machine learning-based image analysis."
+        ],
+
+        "QMS": [
+            "Developed an AI-based Examination Paper Quality Management System "
+            "for automated evaluation and quality assessment of question papers.",
+
+            "Implemented machine learning-based analysis to identify quality "
+            "issues and provide structured assessment results."
+        ],
+
+        "AI Complaint Management System": [
+            "Built an AI-assisted complaint management platform for automated "
+            "complaint processing, categorization and analysis.",
+
+            "Designed the system to streamline complaint handling and provide "
+            "structured insights from user-submitted complaints."
+        ],
+
+        "AI Photo Editing Platform": [
+            "Developed an AI-powered photo editing platform with modern web "
+            "technologies and automated image-processing capabilities.",
+
+            "Implemented cloud-based image handling and AI-assisted editing "
+            "features for an interactive user experience."
+        ],
+
+        "AI Coding Agent": [
+            "Built an AI coding agent in Python capable of analyzing and modifying "
+            "an existing Node.js codebase based on natural-language instructions.",
+
+            "Implemented an agent workflow for understanding repository structure, "
+            "making code changes and improving application functionality."
+        ]
     }
 
     education = {
-        "MCA": "Sikkim Manipal Institute of Technology (CGPA: 8.25)",
-        "BCA": "Techno India University (CGPA: 8.39)",
-        "Class XII": "Maynaguri High School (88.6%)"
+        "MCA": "Sikkim Manipal Institute of Technology (CGPA: 8.25/10)",
+        "BCA": "Techno India University (CGPA: 8.39/10)"
     }
 
     certifications = [
-        "Android Developer Virtual Internship (Google & AICTE EduSkills)",
         "IBM Professional Certificate: Full Stack Software Developer",
-        "IBM Professional Certificate: Data Science and AI"
+        "IBM Professional Certificate: Data Science and AI",
+        "Google AI Essentials",
+        "Android Developer Virtual Internship (Google & AICTE EduSkills)"
     ]
 
     contact = {
         "Email": "suvrawork03@gmail.com",
         "GitHub": "github.com/Suvradip01",
-        "LinkedIn": "linkedin.com/in/suvradip01"
+        "LinkedIn": "linkedin.com/in/suvradip01",
+        "Portfolio": "suvra.vercel.app"
     }
+```
+
 ```
 
 </div>
