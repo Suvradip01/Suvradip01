@@ -33,8 +33,6 @@
 <div align="left">
 
 ```typescript
-```python
-```python
 class Developer:
     name = "Suvradip Ghosh"
     location = "West Bengal, India 🇮🇳"
